@@ -1,3 +1,11 @@
+<h1 align="center">Repository Relocation Notice</h1>
+
+This repository has been relocated to the [deriv-com](https://github.com/deriv-com) organization. Please access it at the following URL: [deriv-app-id-action](https://github.com/deriv-com/deriv-app-id-action)
+
+Thank you!
+
+---
+
 # Overview
 
 Enabling this action on your repository will automatically generate Deriv.app production App IDs for any PRs opened to your target branch (specified in your workflow, see `.github/workflows/example.yml`).
